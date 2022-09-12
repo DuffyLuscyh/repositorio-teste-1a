@@ -1,0 +1,17 @@
+body{
+
+    background: black;
+
+}  
+#topo{
+    width: 100%;
+    height: 200px;
+}
+p {
+    text-align: center;
+}
+#lema{
+    font: size 25px;
+    color: aliceblue
+    
+}
