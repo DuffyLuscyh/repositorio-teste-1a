@@ -3,17 +3,18 @@ body{
     background: black;
 
 }  
+
 #topo{
     width: 100%;
     height: 200px;
 }
 
 h1 {
-    color: white
+    color: white;
 }
 
 p {
-    color: white
+    color: white;
     text-align: center;
 }
 
