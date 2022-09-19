@@ -7,11 +7,18 @@ body{
     width: 100%;
     height: 200px;
 }
+
+h1 {
+    color: white
+}
+
 p {
+    color: white
     text-align: center;
 }
+
 #lema{
     font: size 25px;
-    color: aliceblue
+    color: aliceblue;
     
 }
