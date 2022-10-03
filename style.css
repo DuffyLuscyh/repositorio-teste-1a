@@ -9,8 +9,8 @@ body{
     height: 200px;
 }
 #baixo{
-    width: 100%
-    height:auto 100px
+    width: 0%;
+    height:auto 200px;
 }
 title {
     text-align: center;
