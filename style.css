@@ -37,3 +37,11 @@ h2 {
 .imagemdicas{
     width: 50%;
 }
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#imagemd{
+    width:50%
+}
