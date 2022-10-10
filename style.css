@@ -10,7 +10,7 @@ body{
 }
 title {
     text-align: center;
-    color:coral
+    color:rgb(248, 211, 197)
 }
 h1 {
     color: white;
@@ -28,7 +28,7 @@ p {
 }
 
 h2 {
-    color: white;
+    color: rgb(190, 189, 189);
 }
 .Dicas{
     color:darkgrey
