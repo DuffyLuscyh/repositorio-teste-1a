@@ -3,8 +3,7 @@ body{
     margin: 20px;
     display: block;
 }  
-
-#topo{
+#imagem{
     width: 100%;
     height: 200px;
 }
@@ -46,5 +45,4 @@ ul {
 
 #imagemd{
     width:50%;
-    height:200px;
 }
