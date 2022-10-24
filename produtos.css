@@ -1,3 +1,6 @@
 header {
     background-color: aqua;
 }
+nav li {
+    display: inline;
+}
