@@ -21,3 +21,11 @@ nav {
 nav li {
     display: inline;
 }
+
+nav a{
+    text-transform: uppercase;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
