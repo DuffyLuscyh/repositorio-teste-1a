@@ -20,6 +20,7 @@ nav {
 
 nav li {
     display: inline;
+    margin-left: 10px;
 }
 
 
