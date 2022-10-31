@@ -3,6 +3,11 @@ header {
 }
 
 
+h1 {
+    display: inline;
+}
+
+
 #logo{
     width: 250px;
 }
