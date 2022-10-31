@@ -20,7 +20,7 @@ nav {
 
 nav li {
     display: inline;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 
@@ -28,6 +28,6 @@ nav a{
     text-transform: uppercase;
     color: red;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 22px;
     text-decoration: none;
 }
