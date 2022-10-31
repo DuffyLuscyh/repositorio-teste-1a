@@ -4,6 +4,7 @@ header {
 
 #logo{
     width: 250px;
+    display: inline;
 }
 nav li {
     display: inline;
