@@ -40,9 +40,19 @@ nav a{
     text-decoration: none;
 }
 .produtos{
-    width: 0 auto;
+    width: 1136px;
     margin: 0 auto;
     padding: 50px 0;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    margin:10px;
+    padding: 20px 0;
+    border-color: purple;
+    border-width: 3px;
+    border-style:solid;
 }
 .item{
     width: 350px;
